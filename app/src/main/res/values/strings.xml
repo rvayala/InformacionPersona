@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Información Persona</string>
+    <string name="textoSiguienteBtn">Siguiente</string>
+    <string name="textoCorregirBtn">Corregir Información</string>
+    <string name="lblNombre">Nombre</string>
+    <string name="lblTelefono">Teléfono</string>
+    <string name="lblCorreo">Correo</string>
+    <string name="lblDescripcion">Descripción</string>
+    <string name="lblFechaNacimiento">Fecha Nacimiento</string>
+    <string name="paramNombre">Nombre</string>
+    <string name="paramTelefono">Telefono</string>
+    <string name="paramCorreo">Correo</string>
+    <string name="paramDescripcion">Descripcion</string>
+    <string name="paramDia">Dia</string>
+    <string name="paramMes">Mes</string>
+    <string name="paramAnio">Anio</string>
+    <string name="paramPersona">Persona</string>
+</resources>
